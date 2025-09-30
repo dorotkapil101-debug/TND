@@ -1,4 +1,4 @@
-## 🌸 Hi there! I'm Dorotka 🌸
+## 🌸 Hi there! I'm TND 🌸
 
 **A Girl Seeking Advice, and Passionate to Learn More!** ✨
 
