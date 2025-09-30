@@ -1,14 +1,14 @@
 ## 🌸 Hi there! I'm TND 🌸
   
 <p align="right">
-  <img src="https://your-image-link-here.com/yourphoto.png](https://ih1.redbubble.net/image.4526127121.1708/st,small,845x845-pad,1000x1000,f8f8f8.u1.jpg" alt="Dorotka's avatar" width="200"/>
+  <img src="https://ih1.redbubble.net/image.4526127121.1708/st,small,845x845-pad,1000x1000,f8f8f8.u1.jpg" alt="hiii" width="200"/>
 </p>
   
 **A Girl Seeking Advice, and Passionate to Learn More!** ✨
   
 ---
   
-### 🌱 Favorite Quotes
+### 🌱 Favorite Quote
   
 > “The expert at anything was once a beginner.”  
 — Helen Hayes
@@ -16,7 +16,7 @@
 ---
   
 ### 👩‍💻 What I'm working on
-- Currently working on a simple Python text-based game 🎲🖥️
+- A simple Python text-based game 🎲🖥️
   
 ---
   
