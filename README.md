@@ -4,13 +4,20 @@
 
 ---
 
+### 🌱 Favorite Quotes
+
+> “The expert at anything was once a beginner.”  
+— Helen Hayes
+
+---
+
 ### 👩‍💻 What I'm working on
 - Currently working on a simple Python text-based game 🎲🖥️
 
 ---
 
 ### 🧰 My skills
-- Python (really basic, but I love learning!) 🐍💕
+- Python (really really basic, but I love learning!) 🐍💕
 
 ---
 
@@ -21,5 +28,4 @@
 
 ### 💡 My vibe
 
-I'm outgoing, curious, and always open for advice or positive energy!  
-Let’s connect, share ideas, and grow together 🌱💌
+I'm curious and always open for advice! 
