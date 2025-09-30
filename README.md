@@ -1,6 +1,7 @@
 ## TND 
 <h3 align="center">A girl seeking advice</h3>
 
+
 - 🔭 I’m currently working on **a simple text-based game**
 
 - 🌱 I’m currently learning **Python basics**
