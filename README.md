@@ -32,9 +32,3 @@
 ### 💡 My vibe
   
 I'm curious and always open for advice! 
-
----
-
-### 📫 Contact me
-- Email: dorotkapil101@gmail.com
-  
