@@ -28,13 +28,13 @@
 - Python (really really basic, but I love learning!) 🐍💕
   
 ---
-  
-### 📫 Contact me
-- Email: dorotkapil101@gmail.com
-  
----
-  
+
 ### 💡 My vibe
   
 I'm curious and always open for advice! 
 
+---
+
+### 📫 Contact me
+- Email: dorotkapil101@gmail.com
+  
