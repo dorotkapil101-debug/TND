@@ -20,7 +20,7 @@
 ---
   
 ### 👩‍💻 What I'm working on
-- A simple Python text-based game 🎲🖥️
+- Currently I'm trying to make a Python program which would read some data because I just started learning how to work with data in Python 🎲🖥️
   
 ---
   
